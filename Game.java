@@ -8,7 +8,7 @@ import monsters.IMonster;
 
 public class Game {
 
-	// Keeps track of when we should abort main loop
+	// Keeps track of when we should abort main loop.
 	private boolean lostGame, wonGame;
 	// Handles input
 	private Scanner sc;
